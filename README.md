@@ -3,7 +3,8 @@
 </div>
 
 > Qihong Pan, Haofei Tan, Guojiang Shen, Xiangjie Kong, Mengmeng Wang, Chenyang Xu.  
-> IJCAI-2025  [paper](https://arxiv.org/)  
+> IJCAI-2025  
+> [paper](https://arxiv.org/)  
 
 **Code Release:** Guaranteed public release before the start of IJCAI 2025 Guangzhou Satellite Event (August 29, 2025).
 
