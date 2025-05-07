@@ -9,7 +9,7 @@
 > Qihong Pan, Haofei Tan, Guojiang Shen, Xiangjie Kong, Mengmeng Wang, Chenyang Xu.  
 > IJCAI-2025
 
-**Code Release:** Guaranteed public release before the start of IJCAI 2025 Guangzhou Satellite Event (August 29, 2025).
+**Code Release:** Guaranteed public release before the start of IJCAI 2025 Guangzhou Satellite Event (**August 29, 2025**).
 
 ## Acknowledgement
 
