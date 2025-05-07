@@ -2,9 +2,8 @@
   <h2><b> LLM-TPF: Multiscale Temporal Periodicity-Semantic Fusion LLMs for Time Series Forecasting </b></h2>
 </div>
 
-> [LLM-TPF: Multiscale Temporal Periodicity-Semantic Fusion LLMs for Time Series Forecasting](https://arxiv.org/)  
-> Binghong Chen, Tingting Chai, Wei Jiang, Yuanrong Xu, Guanglu Zhou, Xiangqian Wu.  
-> IJCAI 2025
+> Qihong Pan, Haofei Tan, Guojiang Shen, Xiangjie Kong, Mengmeng Wang, Chenyang Xu.  
+> IJCAI-2025  [paper](https://arxiv.org/)  
 
 **Code Release:** Guaranteed public release before the start of IJCAI 2025 Guangzhou Satellite Event (August 29, 2025).
 
