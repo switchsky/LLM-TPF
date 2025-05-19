@@ -30,4 +30,4 @@ If you find this repo useful, please cite our paper via
 }
 ```
 ## Contact Us
-For inquiries or further assistance, contact us at [haofei_tan@outlook.com](mailto:lpy23@mails.tsinghua.edu.cn) or open an issue on this repository.
+For inquiries or further assistance, contact us at [haofei_tan@outlook.com](mailto:haofei_tan@outlook.com) or open an issue on this repository.
