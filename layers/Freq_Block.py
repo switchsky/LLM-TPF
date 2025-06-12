@@ -42,7 +42,7 @@ def random_select_with_temperature(frequency_list, k, temperature=0.9):
 
 
 
-class TimesNet(nn.Module):
+class Freq_Block(nn.Module):
     def __init__(self, configs, device,word_embedding):
         super().__init__()
         self.weights = None
