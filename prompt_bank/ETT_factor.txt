@@ -1,0 +1,1 @@
+The dataset spans a two-year period from the start of summer in 2016 to the eve of summer in 2018, with time divisions on an hourly and minute basis. It reflects seasonal cycles and cumulative trends, guiding the model to focus on the periodic and non-periodic features at key time points.

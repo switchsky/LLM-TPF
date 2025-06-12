@@ -1,0 +1,1 @@
+The dataset records hourly road occupancy measurements from 862 sensors located across the highways of the San Francisco Bay Area, spanning the period from January 2015 to December 2016. It offers a comprehensive overview of traffic dynamics in the region, providing valuable insights into patterns and variations over a two-year timeframe.
