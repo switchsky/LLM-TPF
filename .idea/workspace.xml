@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd71a6d-6ca2-4f7f-97d2-738f9e409e7a" name="Changes" comment="init project">
-      <change afterPath="$PROJECT_DIR$/assets/exp1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/exp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/exp3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/framework.png" afterDir="false" />
+    <list default="true" id="bfd71a6d-6ca2-4f7f-97d2-738f9e409e7a" name="Changes" comment="update readme.md and assets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/zero_shot_forecasting/ETTh1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/zero_shot_forecasting/ETTh1_to_ETTm1.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/zero_shot_forecasting/ETTh2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/zero_shot_forecasting/ETTh2_to_ETTm.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "switchsky"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/switchsky/LLM-TPF.git",
+    "accountId": "cd833c21-6b6f-4d77-8da9-2555c90b96bb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -153,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749719757186</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update readme.md and assets">
+      <option name="closed" value="true" />
+      <created>1781064462188</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781064462188</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update readme.md" />
     <MESSAGE value="init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+    <MESSAGE value="update readme.md and assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme.md and assets" />
   </component>
 </project>

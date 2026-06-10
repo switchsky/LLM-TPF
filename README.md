@@ -79,8 +79,6 @@ tqdm==4.66.4
 transformers==4.30.1
 ```
 
-More details will be provided after the official code release.
-
 ---
 
 ## Code description
