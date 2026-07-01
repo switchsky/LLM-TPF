@@ -112,12 +112,6 @@ LLM-TPF/
 | `CMF`  | Fuses frequency-domain and time-domain information through cross-modal attention.          |
 | `LoRA` | Performs lightweight LLM fine-tuning.                                                      |
 
-
-## Experimental Results
-
-We report several representative results from long-term forecasting, short-term forecasting, and zero-shot forecasting.
-Lower values indicate better performance.
-
 ## Experimental Results
 
 We report representative results from long-term forecasting, short-term forecasting, and zero-shot forecasting.  
